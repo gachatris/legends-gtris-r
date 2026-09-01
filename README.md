@@ -1,2 +1,2 @@
-# legends-gtris-r
-Gachatris X Linkblobs Legends
+# legends-gtris-o
+Gachatris Legends

@@ -1,0 +1,7 @@
+{
+	"version": "0.pre-3.0 Rendering Overhaul and Online Test Alpha-Indev",
+	"build": "Rendering Overhaul Cinnamon",
+	"database": {
+		"categories": ["cache", "local_data", "replays"]
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"name": "eclipse",
+	"version": 0,
+	"sources": {
+		"sounds": {
+			"intro": "voices/intro.ogg"
+		},
+		"images": {
+			"select": "images/select.png"
+		}
+	},
+	"init": {
+		"sounds": {
+			"intro": "intro"
+		},
+		"proprietaryImgs": {
+			"select": "select"
+		}
+	}
+}

@@ -1,0 +1,100 @@
+{
+ "base": "epic2",
+ "version": "main",
+ 
+ "sources": {
+  "image": {
+   "normal": "images/normal.png",
+   "warning": "images/warning.png",
+   "insane": "images/warning.png"
+  },
+  "voice": {
+   "init1": "voices/init1.ogg",
+   "init2": "voices/init2.ogg",
+   "init3": "voices/init3.ogg",
+   "init4": "voices/init4.ogg",
+   "init5": "voices/repeater.ogg",
+   "gtris": "voices/spell4.ogg",
+   "gtrisplus": "voices/spell4.ogg",
+
+   "spell1": "voices/spell1.ogg",
+   "spell2": "voices/spell2.ogg",
+   "spell3": "voices/spell3.ogg",
+   "spell4": "voices/spell4.ogg",
+   "spell5": "voices/spell5.ogg",
+
+   "damage1": "voices/damage1.ogg",
+   "damage2": "voices/damage2.ogg",
+
+   "counter_mid": "voices/counter.ogg",
+   "counterattack": "voices/counter.ogg",
+   
+   "insane": "voices/insane.ogg",
+   "insane_success": "voices/insane_success.ogg",
+
+   
+      "win": "voices/win.ogg",
+   "lose": "voices/lose.ogg"
+  }
+ },
+
+ "init": {
+  
+    "main": {
+        "attributes": {
+   "hp": 374,
+   "def": 120,
+   "atk": 12,
+   "mp": 120,
+   "lifesteal": 0.2,
+   "atktol": 93,
+   "hpregen": 10,
+   "hpregentol": 10,
+   "hpregentime": 30
+        },
+   
+   "chainPower": [0, 8, 16, 24, 51, 79, 120, 198, 253, 457, 643, 699, 699, 699, 699, 699, 699, 699, 699, 699, 699, 699, 699, 699],
+   "feverPower": [0, 6, 10, 16, 23, 32, 44, 57, 74, 97, 120, 157, 176, 211, 244, 281, 315, 351, 416, 473, 542, 604, 644, 681],
+   "dropset": [0,0,0,1,4,2,0,3,1,3,0,4,1,2,0,0]
+  },
+  "image": {
+   "normal": {
+    "src": "normal"
+   },
+   "warning": {
+    "src": "warning"
+   }
+  },
+
+  "voice": {
+   "init1": "init1",
+   "init2": "init2",
+   "init3": "init3",
+   "init4": "init4",
+   "init5": "init5",
+   "gtris": "gtris",
+   "gtrisplus": "gtrisplus",
+   "spell1": "spell1",
+   "spell2": "spell2",
+   "spell3": "spell3",
+   "spell4": "spell4",
+   "spell5": "spell5",
+   "damage1": "damage1",
+   "damage2": "damage2",
+   
+            "win": "win",
+         "lose": "lose",
+   
+   "insane": "insane",
+   
+   "insane_success": "insane_success",
+   
+
+         
+   "counter_mid": "counter_mid",
+   "counterattack": "counterattack"   
+   
+  }
+
+ }
+}

@@ -1,0 +1,69 @@
+Copyright © 2023-2026 EricLenovo (Eric James Kindica Villafuerte) / EricLenovo Programming and Development
+Project: Gachatris Legends: Neoplexus Blocks and Blobs
+
+
+This Source Code and JSON files in the "game/assets" folder (except those
+in "game/assets/characters") are the intellectual property of EricLenovo /
+EricLenovo Programming and Development Studios. These files are provided for non-commercial, educational,
+and modding purposes only.
+
+
+1. PERMISSION
+Permission is hereby granted to copy, modify, and redistribute this
+Software for the purposes stated above, provided that the copyright
+notice and permission notice are included in all copies.
+
+
+2. RESTRICTION
+- Non-commercial (No Monetization): Commercial redistribution or sale
+of this Software or its derivative works (including but not limited to
+mods, forks, or "professional" or "premium" versions) is strictly
+prohibited.
+- Third-party Intellectual Property (IP): This License does not grant rights to any
+third-party assets (such as character images/PNG, or external IP)
+that may be displayed within the Software.
+
+
+3. ASSET RIGHTS & OWNERSHIP 
+ 3a. Original Content: The Source Code, Game Title, JSON files as defined above,
+ and original music are Licensed under the non-commercial terms above.
+  3a.1  Game Title: "Gachatris" is a coined portmanteau of a game studio "Gacha" by Lunime and a
+  genre "Tetris®" defined as a block stacker game; Succeeding parts of the Title include "Legends: Neoplexus" which defines one of the
+  Game's variants and "Blocks and Blobs" suggesting this Game in the genre of "Tetris" is associated
+  with another genre "Puyo Puyo™", a trademark by SEGA® defined as a chain-building game. The Developer disclaims ownership of the mentioned
+  video games and genres.
+  3a.2  Source Code and JSON Files: All the source code and JSON Files are the intellectual property of the Developer of this Game Project;
+  Any modification attempt to the Source Code and/or a JSON File is permissible under the modding purpose stated above; no malicious
+  code shall be injected into the game that may compromise the security and privacy of players.
+ 3b. Voice Assets: Character voice assets provided by the contributors
+ are Licensed for non-commercial use only within the context of the
+ Software and its derivative works. Modification of these voices
+ is permitted for modding purposes and fan-content purposes, provided that
+ the files are not monetized or commercially distributed.
+  3b.1  No AI Training: Use of these Voice Assets to train
+  generative AI to create synthetic voice clones is strictly 
+  prohibited.
+  3b.2  Prohibited Content: These Assets may not be used in derivative
+  works that promote hate speech, illegal acts, or sexually explicit content.
+  3b.3  Attribution: Clear credit must be given to the original voice
+  performers, and their use does not imply any official endorsement
+  of the derivative work.
+ 3c. Third-party Intellectual Property (IP): Character PNGs and external IP
+ belong to their respective owners. I do not claim ownership of these assets,
+ and this License does not grant rights to use or redistribute them.
+  3c.1  Character Visuals and Base Assets: All character images and PNGs whose designs
+  belong to the respective creators/authors were created using the "Gacha Life 2"
+  software. These assets and base designs are the property of Lunime. Use of these designs
+  is for fan-content purposes only.
+  3c.2  Game Franchise: "Tetris®" is the registered trademark of
+  The Tetris Company and "Puyo Puyo™" is the trademark of SEGA®.
+  3c.3  Ownership Disclaimer and Rights: This Project is an unofficial fan game and
+  is not endorsed, affiliated with, endorsed by, or sponsored by these entities. The
+  author of this Software does not claim ownership of the Tetris brand, the Puyo Puyo
+  brand, or the Gacha Life 2 assets, and this License does not grant rights to use,
+  redistribute, or monetize them.
+ 
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY.

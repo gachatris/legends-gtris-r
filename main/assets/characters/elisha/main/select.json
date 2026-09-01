@@ -1,0 +1,20 @@
+{
+	"name": "elisha",
+	"version": 0,
+	"sources": {
+		"sounds": {
+			
+		},
+		"images": {
+			"select": "images/select.png"
+		}
+	},
+	"init": {
+		"sounds": {
+			
+		},
+		"proprietaryImgs": {
+			"select": "select"
+		}
+	}
+}
