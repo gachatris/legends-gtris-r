@@ -288,9 +288,12 @@
 	"start_omp": "Online Multiplayer",
 	"start_omp_desc": "Go online and play modes that include your online players across a server. In case of 3-way or 4-way offline multiplayer sessions, you can assign what team you belong to.",
 	
-		"onlinemain_title": "Gachatris Legends: NBnB Alpha - Online Test",
+		"onlinemain_title": "Gachatris X Linkblobs Legends Alpha - Online Test",
 			"onlinemain_vsquick": "Versus - Quick Match",
 	"onlinemain_vsquick_desc": "Start a new Versus session against a random existing player.",
+				"onlinemain_swapquick": "Swap - Quick Match",
+	"onlinemain_swapquick_desc": "Start a new Swap session against a random existing player.",
+
 
 	"onlinemain_boardpos_1v1": "Board Position (Online 1v1)",
 	"onlinemain_inputcode": "Create Room",
