@@ -23,7 +23,6 @@
 	
 	"board_0o": "Left / 1P||When you start a 2-player session, your board will be on the left side. This board position is much commonly used by players.",
 	"board_1o": "Right / 2P||When you start a 2-player session, your board will be on the right side.",
-
 	
 	"mode_gachatris": "Gachatris||A type/mode made of blocks, with 7 Gachaquadrominoes consisting of 4 Gachaminoes or blocks each that resemble a letter. The goal is to clear lines by filling rows.",
 	"mode_linkblobs": "Gachae Linkblobs||A type/mode where Blobs are in and 3-5 colors exist. Blobs are soft and round objects whose goal is to connect 4 or more of them of the same color, making a chain.",
@@ -33,6 +32,12 @@
 	"insane_fever": "Fever||Enhancement state mode made for Gachae Linkblobs whose goal is to match the length of a chain triggered at once with the length of a chain required by a ready-made setup. Doing so or even extending will increase the required chain length by 1 or so; otherwise will decrease it by up to 2.",
 	"insane_micro": "Micro-blob||Enhancement/transformation state mode made for Gachae Linkblobs that functions the same as the normal Fever mode but with smaller Blobs; it's faster than normal when Blobs vanish.",
 	"insane_macro": "Macro-blob||Enhancement/transformation state mode made for Gachae Linkblobs that functions differently than Micro-blob; it is so large that the goal is to stack up the number of chains, hence \"combo\".",
+	
+	"gameprepsp_spicelevel_0": "Sweet||The easiest of the spice handicap levels",
+	"gameprepsp_spicelevel_1": "Easy||A bit harder than Sweet",
+	"gameprepsp_spicelevel_2": "Mild||Standard spice handicap level",
+	"gameprepsp_spicelevel_3": "Hard||Above standard spice handicap level",
+	"gameprepsp_spicelevel_4": "Spicy||The most challenging of the spice handicap levels",
 	
 	"bg_black": "Black||Black background... It will look blank and does not have animations to play in the background.",
 	"bg_red": "Red||Red background",

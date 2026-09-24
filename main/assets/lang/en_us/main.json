@@ -1,7 +1,7 @@
 {
 	"title": "Gachatris Legends: Neoplexus Blocks and Blobs",
 
-	"alpha_note": "This Game is under Alpha stage, version 0.pre-3.0 Rendering Overhaul and OTA Indev. If you have any suggestions, go contact the developer through the official Gachatris Discord Server.",
+	"alpha_note": "This Game is under Alpha stage, version 0.pre-3.1 Rendering Overhaul and OTA Indev. If you have any suggestions, go contact the developer through the official Gachatris Discord Server.",
 
 	"splash_note": "Press any key, tap, or click anywhere to start.",
 
@@ -160,7 +160,7 @@
 	"error_kb_duplicate": "Key [var=0] already exists in this flag",
 	"error_kb_duplicate_desc": "Duplicate keys cannot exist in the same flag.",
 		
-	"menu_main": "Gachatris X Linkblobs Legends: Neoplexus v0.pre-3.0 RO-OTA Indev",
+	"menu_main": "Gachatris X Linkblobs Legends: Neoplexus v0.pre-3.1 RO-OTA Indev",
 	"menu_start": "Play Game",
 	"menu_start_desc": "Start a new game session.",
 	"menu_replaycenter": "Replay Center",
@@ -330,12 +330,24 @@
 	"mpstart_swap_desc": "Play this confusing yet fun game mode where you have Gachatris and Linkblobs take turns over a certain amount of time.",
 	"mpstart_wormhole_desc": "Play this exciting mode where your board gets an upgrade that lasts a certain amount of time. After the time expires, the game will then evaluate your total garbage collected. You have the freedom to choose either Gachatris or Linkblobs.",
 	"mpstart_fever_desc": "Play this Linkblob-only mode featuring its own upgrade mode, the Fever.",
-	"mpstart_rpg_desc": "This is in Alpha stage where there are bugs present in this mode. Players have special skills using three of what's called \"Character Cards\". Each card adds up attributes and a specific skill. You have the freedom to choose either Gachatris or Linkblobs.",
+	"mpstart_rpg_desc": "This is in Alpha stage where there are bugs present in this mode. Players have special skills using three of what're called \"Character Cards\". Each card adds up attributes and a specific skill. You have the freedom to choose either Gachatris or Linkblobs.",
 	
 	"gameprep_title": "Preparation",
 	
 	"gameprep_start": "Start Game Session",
 	"gameprep_start_desc": "Start a new game session.",
+	"gameprep_playersettings": "Player Settings/Handicaps",
+	"gameprep_playersettings_desc": "Tweak and prepare players' settings or handicaps for this session.",
+	
+	"gameprepsp_ai_speed": "AI Bot Speed",
+	"gameprepsp_ai_speed_desc": "Change how fast AI goes.",
+	"gameprepsp_spicelevel": "Spice Handicap Level",
+	"gameprepsp_spicelevel_desc": "Change how hard their gameplay will be.",
+		"gameprepsp_sgheight": "[Gtris] Solid Garbage Height",
+		"gameprepsp_sgheight_desc": "For Gachatris, this handicap restricts the height of their board. Solid Garbage blocks are invincible and cannot be cleared as wholes or as lines. The higher the Solid Garbage height, the smaller the board will become.",
+		"gameprepsp_o_m_start": "Enter Matchmaking",
+		"gameprepsp_o_m_start_desc": "Tell the server that you're ready so matchmaking will begin.",
+
 	"gameprep_settings": "Session Settings",
 	"gameprep_settings_desc": "Tweak and prepare settings for this session.",
 
