@@ -7,6 +7,8 @@
  "cs_border_green": { "path": "./assets/menu/images/cs_border_green.png", "type": "image" },
  "cs_mode_pick": { "path": "./assets/menu/images/cs_mode_pick.png", "type": "image" },
  "cs_removeplayer": { "path": "./assets/menu/images/cs_removeplayer.png", "type": "image" },
+  "cs_switchver": { "path": "./assets/menu/images/cs_switchver.png", "type": "image" },
+
 
  "switch_on": { "path": "./assets/menu/images/switch_on.png", "type": "image" },
  "switch_off": { "path": "./assets/menu/images/switch_off.png", "type": "image" },
@@ -37,6 +39,7 @@
   "gtris_sprite": { "path": "./assets/field/gtris_ct.png", "type": "image" },
 
   "score_sprite": { "path": "./assets/field/score_sprite.png", "type": "image" },
+  
  "tspin_sprite": { "path": "./assets/field/tspin.png", "type": "image" },
  "tspinmini_sprite": { "path": "./assets/field/mini.png", "type": "image" },
  "henshin_bg": { "path": "./assets/field/henshin.png", "type": "image" },

@@ -1,0 +1,35 @@
+{
+ "base": "epicman",
+ "version": "alt1",
+ "type": "src_override",
+ "base_version": "main",
+ 
+ "sources": {
+  "image": {},
+  "voice": {
+   "init1": "voices_2/init1.ogg",
+   "init2": "voices_2/init2.ogg",
+   "init3": "voices_2/init3.ogg",
+   "init4": "voices_2/init4.ogg",
+   "init5": "voices_2/repeater.ogg",
+
+   "spell1": "voices_2/spell1.ogg",
+   "spell2": "voices_2/spell2.ogg",
+   "spell3": "voices_2/spell3.ogg",
+   "spell4": "voices_2/spell4.ogg",
+   "spell5": "voices_2/spell5.ogg",
+
+   "damage1": "voices_2/damage1.ogg",
+   "damage2": "voices_2/damage2.ogg",
+   "damage3": "voices/damage3.ogg",
+   "counter_mid": "voices_2/counter.ogg",
+   "counterattack": "voices_2/counter.ogg",
+   
+   "insane": "voices_2/insane.ogg",
+   "insane_success": "voices_2/success.ogg",
+
+   "win": "voices_2/win.ogg",
+   "lose": "voices_2/lose.ogg"
+  }
+ }
+}

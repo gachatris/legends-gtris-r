@@ -1,5 +1,5 @@
-=# VERSION 0.pre-3.1 RENDERING OVERHAUL AND ONLINE TEST ALPHA-INDEV
-September 25, 2026 update
+=# VERSION 0.pre-3.2 RENDERING OVERHAUL AND ONLINE TEST ALPHA-INDEV
+October 20, 2026 update
 -> This is an INDEV update. The term "Indev" means that this update is not finished and is in development. The full release of this particular update is taking longer to appear.
 -> Indev versions may show some of the updates like additions and changes to this Game.
 -> If you find bugs in the game, report them to the developer (EricLenovo) through the official Gachatris + Linkblobs Discord Server (with the invite button shown in the Main Menu).
@@ -9,7 +9,38 @@ September 25, 2026 update
 - Deterministic Lockstep Approach implementation fix
 - Other fixes
 
-# Major Additions And Changes:
+# Character Appearance Revamp:
+## Sun Gabbryielle (Phylum)
+ - Her first version was a dark sun daughter herself. Now her colors brighten up with an upgrade. She's taller than her first version as she grows older. She can do a better kick dance!
+
+# Major Additions and Changes:
+## PLAYER VERSIONS
+ - Player versions are here! This feature was planned here the entire time when the game was released in version 0.0.1 A1q1 Alpha. 
+ - Two of the characters have more than a version each. A version can be either an alt voice set, a skin change, or a character version change of the same kind.
+ - In the character selection panel: press V on your keyboard, X button on mobile touch controls, or "ALT/VER" to the right of the check button on the panel screen itself to switch versions.
+ - Epicman has an ALT version while Sun Gabbryielle has her first version as her second one.
+ 
+## LINKBLOBS: GARBAGE FALL REVAMP
+ - Added delay when 3 to 5 rows of Garbage Blobs drop into the board to play the animation where blobs are shaking inside the board.
+ - In normal Linkblobs mode: columns of falling Garbage Blobs fall in random order, probably adding a bit of delay when there is more than a single Garbage Blob falling onto the board.
+
+# Minor Additions, Changes, and Bug Fixes
+- Adjusted board rotation wobbling when a Linkblobs player receives 15 or more Garbage Blobs.
+- New song: "Rivalry Overdrive Lock-in"
+- Fixed splash screen (another instance of the mistaken year, likely in 0.2.0 Alpha, when development for the Game started in 2023)
+- Fixed Result animations for RubyStudios where her full-body sprites were displayed incorrectly by her JSON init file which caused parts of adjacent frames to appear in a displayed frame.
+- Other bug fixes and adjustments
+
+
+
+=# VERSION 0.pre-3.1 RENDERING OVERHAUL AND ONLINE TEST ALPHA-INDEV
+September 25, 2026 update
+
+# OTA: Changes and fixes
+- Deterministic Lockstep Approach implementation fix
+- Other fixes
+
+# Major Additions:
 ## PLAYER PARAMETERS
  - You can now tweak your player parameters in the pre-match interface (Preparation) -> selecting which player to tweak parameters for. Parameters include AI Performance Level, Solid Garbage Height, and Spice Handicap Level.
 
@@ -18,6 +49,7 @@ September 25, 2026 update
  
 # Minor Additions, Changes, and Bug Fixes
 - Linkblobs SFX revamp
+- New song: "Playthingy"
 - Other bug fixes and adjustments
 
 

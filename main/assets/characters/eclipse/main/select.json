@@ -1,6 +1,6 @@
 {
 	"name": "eclipse",
-	"version": 0,
+	"version": "main",
 	"sources": {
 		"sounds": {
 			"intro": "voices/intro.ogg"

@@ -60,7 +60,8 @@
 			"music_warning||warning",
 			"music_wormhole||wmw_eval",
 			"music_music2||music2",
-			"music_music3||music3"
+			"music_music3||music3",
+			"music_music4||music4"
 		],
 		"default": 1,
 		"text": "text_text"

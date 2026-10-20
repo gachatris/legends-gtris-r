@@ -87,6 +87,10 @@
 			"main": {
 				"name": "Adventure Neko",
 				"description": "      "
+			},
+			"alt1": {
+				"name": "[ALT] Adventure Neko",
+				"description": "      "
 			}
 		}
 	},
@@ -151,7 +155,7 @@
 			}
 		}
 	},
-		"skylight": {
+	"skylight": {
 		"name": "Skylight Cloud",
 		"first_name": "Skylight",
 		"middle_name": "",
@@ -181,22 +185,22 @@
 			}
 		}
 	},
-			"rainuff": {
-		 "name": "Rainuff Cloud",
-		 "first_name": "Rainuff",
-		 "middle_name": "",
-		 "last_name": "Cloud",
-		 "gender": 2,
-		 "pronouns": "she/her",
-		 "description": "She aims to maintain the vibrance and color of the whole world with rainbow powers. Without rainbows, the world will turn grayscale and look like it's in the '40s.",
-		 "ver": {
-		  "main": {
-		   "name": "Colorful Rainbow Fox",
-		   "description": "      "
-		  }
-		 }
-		},
-			"gabbryielle": {
+	"rainuff": {
+		"name": "Rainuff Cloud",
+		"first_name": "Rainuff",
+		"middle_name": "",
+		"last_name": "Cloud",
+		"gender": 2,
+		"pronouns": "she/her",
+		"description": "She aims to maintain the vibrance and color of the whole world with rainbow powers. Without rainbows, the world will turn grayscale and look like it's in the '40s.",
+		"ver": {
+			"main": {
+				"name": "Colorful Rainbow Fox",
+				"description": "      "
+			}
+		}
+	},
+	"gabbryielle": {
 		"name": "Sun Gabbryielle",
 		"first_name": "Sun Gabbryielle Abbygaile",
 		"middle_name": "Candriea",
@@ -206,6 +210,10 @@
 		"description": "She is the one who discovered the Linkblobs that dominated Phar Re.",
 		"ver": {
 			"main": {
+				"name": "Bright Sunshine",
+				"description": "Gabbryielle, Gabbryielle... Look at her bright colors, you'll see the combination of the Sun itself and UV rays."
+			},
+			"ver1": {
 				"name": "Little Dark Sunshine",
 				"description": "Look how adorable Gabbryielle is even when she has dark colors."
 			}
@@ -227,18 +235,18 @@
 		}
 	},
 	"kenzieheart": {
-	  "name": "Mackenzie Heart",
-	  "first_name": "Mackenzie",
-	  "middle_name": "",
-	  "last_name": "Heart",
-	  "gender": 2,
-	  "pronouns": "she/her",
-	  "description": "Mackenzie Heart is a half-angel, half-demon herself, with a halo and weapons that may appear like a scythe and/or a spear. In the world of Neoplexus, how can she use these blocks and blobs?",
-	  "ver": {
-	    "main": {
-	      "name": "Angelic Demon",
-	      "description": "She normally has the powers of an angel and the powers of a demon. Will you handle them like the way she does?"
-	    }
-	  }
+		"name": "Mackenzie Heart",
+		"first_name": "Mackenzie",
+		"middle_name": "",
+		"last_name": "Heart",
+		"gender": 2,
+		"pronouns": "she/her",
+		"description": "Mackenzie Heart is a half-angel, half-demon herself, with a halo and weapons that may appear like a scythe and/or a spear. In the world of Neoplexus, how can she use these blocks and blobs?",
+		"ver": {
+			"main": {
+				"name": "Angelic Demon",
+				"description": "She normally has the powers of an angel and the powers of a demon. Will you handle them like the way she does?"
+			}
+		}
 	}
 }

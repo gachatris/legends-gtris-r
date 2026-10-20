@@ -1,4 +1,6 @@
 {
+	  "base": "elabbygaile",
+  "version": "main",
  "sources": {
   "image": {
    			"normal": "images/normal.png",
