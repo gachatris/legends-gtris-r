@@ -339,7 +339,7 @@
 	"gameprep_playersettings": "Player Settings/Handicaps",
 	"gameprep_playersettings_desc": "Tweak and prepare players' settings or handicaps for this session.",
 	
-	"gameprepsp_ai_speed": "AI Bot Speed",
+	"gameprepsp_ai_speed": "AI Performance Level",
 	"gameprepsp_ai_speed_desc": "Change how fast AI goes.",
 	"gameprepsp_spicelevel": "Spice Handicap Level",
 	"gameprepsp_spicelevel_desc": "Change how hard their gameplay will be.",

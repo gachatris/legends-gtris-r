@@ -144,9 +144,9 @@
 		"max": 350,
 		"default_obj": {
 			"vs": 96,
-			"swap": 128,
+			"swap": 192,
 			"wmw": 256,
-			"fever": 128,
+			"fever": 192,
 			"vs4": 75,
 			"swap4": 2,
 			"wmw4": 1,

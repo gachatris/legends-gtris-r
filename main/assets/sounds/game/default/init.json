@@ -34,7 +34,7 @@
 			"timer": "timer.ogg",
 			"ready": "ready.ogg",
 			"start": "start.ogg",
-
+			"fever_add": "fever_add.ogg",
 			"timer_zero": "timer_zero.ogg",
 			"timer2_1": "timer2_phase1.ogg",
 			"timer2_2": "timer2_phase2.ogg",
@@ -57,10 +57,10 @@
 			"wormhole_loop": "wormhole/wloop.ogg",
 			"wormhole_blast": "wormhole/wblast.ogg",
 			"wormhole_break": "wormhole/wbreak.ogg",
-			
+
 			"rpg_lowhp": "rpg_warning.ogg",
 			"rpg_zerohp": "rpg_hpwarning.ogg",
-			
+
 			"tspin_complete": "tspin_complete.ogg"
 
 		},
@@ -84,7 +84,10 @@
 		}
 	},
 	"sounds": {
-
+		"fever_add": {
+			"src": "fever_add",
+			"loop": false
+		},
 		"allclear": {
 			"src": "allclear",
 			"loop": false
@@ -98,7 +101,6 @@
 			"src": "blub_garbage1",
 			"loop": false
 		},
-
 		"blub_garbage2": {
 			"src": "blub_garbage2",
 			"loop": false
@@ -384,7 +386,7 @@
 			"src": "wormhole_ready",
 			"loop": false
 		},
-		
+
 		"rpg_lowhp": {
 			"src": "rpg_lowhp",
 			"loop": false
